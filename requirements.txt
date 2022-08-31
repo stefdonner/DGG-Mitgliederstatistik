@@ -12,5 +12,5 @@ python-dateutil==2.8.1    # via matplotlib, pandas
 pytz==2020.1              # via pandas
 scipy==1.4.1              # via seaborn
 seaborn==0.10.1
-
+xlrd==1.0.0               # Excell support
 
