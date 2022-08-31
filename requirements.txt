@@ -1,4 +1,4 @@
 matplotlib == 2.1.1
 numpy
 pandas 
-xlrd == 2.0.1
+xlrd == 1.2.0
