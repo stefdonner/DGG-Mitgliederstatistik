@@ -19,4 +19,5 @@ ausprobieren (benötigt etwas Geduld beim Laden).
 
 ## Kontakt
 
-Stefanie Donner (BGR)
+Stefanie Donner (BGR)     
+für das [Komitee Chancengleichheit](https://dgg-online.de/die-dgg/struktur/chancengleichheit/) der [DGG](https://dgg-online.de/dgg-home/)
