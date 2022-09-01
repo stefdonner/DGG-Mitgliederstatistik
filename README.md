@@ -10,7 +10,7 @@ Das Repository kann heruntergeladen und auf dem eigenen Rechner ausprobiert werd
 Voraussetzung ist eine Python Umgebung mit den entsprechend notwendigen Paketen (jupyter, pandas, numpy, matplotlib).
 
 Das Jupyter Notebook lässt sich aber auch online via 
-[Binder](https://mybinder.org/v2/gh/stefdonner/DGG-Mitgliederstatistik/4817e85c046bdc308fba14ad56db57ffe2fa55c9?urlpath=lab%2Ftree%2Fm-w_MitgliederStatistik_DGG_deutsch.ipynb)
+[Binder](https://mybinder.org/v2/gh/stefdonner/DGG-Mitgliederstatistik/1386422060563afdf36819c435b44d73c44b026c?urlpath=lab%2Ftree%2Fm-w_MitgliederStatistik_DGG_deutsch.ipynb)
 ausprobieren (benötigt etwas Geduld beim Laden).
 
 ## Lizenz
